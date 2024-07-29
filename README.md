@@ -1,14 +1,17 @@
 **BMI Calculator App**
 A simple BMI calculator app built with Flutter.
 
-Features
+**Features**
 Calculates BMI based on user input (height and weight)
 Supports both metric and US units
 Displays BMI result and corresponding weight status (underweight, normal, overweight)
 Provides ideal weight range based on user's height
 Offers helpful tips for users who are underweight or overweight
 
-How to Use
+**screen shots**
+https://github.com/OracleMatrix/bmi_apk/blob/main/Screenshot_1720981653.png
+
+**How to Use**
 Clone the repository: git clone https://github.com/OracleMatrix/bmi_apk.git
 Open the project in your preferred IDE (Android Studio, Visual Studio Code)
 Run the app on a simulator or physical device: flutter run
