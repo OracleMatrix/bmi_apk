@@ -11,6 +11,8 @@ Offers helpful tips for users who are underweight or overweight
 **screen shots**
 ![Alt text](https://github.com/OracleMatrix/bmi_apk/blob/main/Screenshot_1720981653.png?raw=true "Optional Title")
 
+![Alt text](https://github.com/OracleMatrix/bmi_apk/blob/main/Screenshot_1720981665.png?raw=true "Optional Title")
+
 **How to Use**
 Clone the repository: git clone https://github.com/OracleMatrix/bmi_apk.git
 Open the project in your preferred IDE (Android Studio, Visual Studio Code)
