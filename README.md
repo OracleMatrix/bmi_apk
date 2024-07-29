@@ -9,7 +9,7 @@ Provides ideal weight range based on user's height
 Offers helpful tips for users who are underweight or overweight
 
 **screen shots**
-https://github.com/OracleMatrix/bmi_apk/blob/main/Screenshot_1720981653.png
+![Alt text](https://github.com/OracleMatrix/bmi_apk/blob/main/Screenshot_1720981653.png?raw=true "Optional Title")
 
 **How to Use**
 Clone the repository: git clone https://github.com/OracleMatrix/bmi_apk.git
